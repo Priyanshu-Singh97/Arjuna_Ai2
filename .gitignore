@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+.env
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.sqlite3
+*.db
+
+# Node
+node_modules/
+build/
+dist/
+*.log
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.egg-info/
+*.egg
+.eggs/
+*.pytest_cache/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+htmlcov/
+# Ignore Python virtual environments
+venv39/
+__pycache__/
+*.pyc
+.env
